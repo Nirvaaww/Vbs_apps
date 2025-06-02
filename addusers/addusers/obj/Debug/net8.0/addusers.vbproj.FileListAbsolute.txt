@@ -1,0 +1,14 @@
+C:\Users\Nirva\source\repos\addusers\addusers\bin\Debug\net8.0\addusers.exe
+C:\Users\Nirva\source\repos\addusers\addusers\bin\Debug\net8.0\addusers.deps.json
+C:\Users\Nirva\source\repos\addusers\addusers\bin\Debug\net8.0\addusers.runtimeconfig.json
+C:\Users\Nirva\source\repos\addusers\addusers\bin\Debug\net8.0\addusers.dll
+C:\Users\Nirva\source\repos\addusers\addusers\bin\Debug\net8.0\addusers.pdb
+C:\Users\Nirva\source\repos\addusers\addusers\obj\Debug\net8.0\addusers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirva\source\repos\addusers\addusers\obj\Debug\net8.0\addusers.AssemblyInfoInputs.cache
+C:\Users\Nirva\source\repos\addusers\addusers\obj\Debug\net8.0\addusers.AssemblyInfo.vb
+C:\Users\Nirva\source\repos\addusers\addusers\obj\Debug\net8.0\addusers.vbproj.CoreCompileInputs.cache
+C:\Users\Nirva\source\repos\addusers\addusers\obj\Debug\net8.0\addusers.dll
+C:\Users\Nirva\source\repos\addusers\addusers\obj\Debug\net8.0\refint\addusers.dll
+C:\Users\Nirva\source\repos\addusers\addusers\obj\Debug\net8.0\addusers.pdb
+C:\Users\Nirva\source\repos\addusers\addusers\obj\Debug\net8.0\addusers.genruntimeconfig.cache
+C:\Users\Nirva\source\repos\addusers\addusers\obj\Debug\net8.0\ref\addusers.dll

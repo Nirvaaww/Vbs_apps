@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ApV2AocS/9w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nirva\\source\\repos\\weather\\weather\\weather.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nirva\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

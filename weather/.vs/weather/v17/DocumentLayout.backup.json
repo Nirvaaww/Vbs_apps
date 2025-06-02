@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nirva\\source\\repos\\weather\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF067FCF-FA4B-4633-A092-DBC560C2E762}|weather\\weather.vbproj|c:\\users\\nirva\\source\\repos\\weather\\weather\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AF067FCF-FA4B-4633-A092-DBC560C2E762}|weather\\weather.vbproj|solutionrelative:weather\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\Nirva\\source\\repos\\weather\\weather\\Program.vb",
+              "RelativeDocumentMoniker": "weather\\Program.vb",
+              "ToolTip": "C:\\Users\\Nirva\\source\\repos\\weather\\weather\\Program.vb",
+              "RelativeToolTip": "weather\\Program.vb",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-09T14:50:19.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

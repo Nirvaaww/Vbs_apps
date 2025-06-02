@@ -1,0 +1,17 @@
+C:\Users\Nirva\source\repos\weather\weather\obj\Debug\net8.0\weather.vbproj.AssemblyReference.cache
+C:\Users\Nirva\source\repos\weather\weather\obj\Debug\net8.0\weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirva\source\repos\weather\weather\obj\Debug\net8.0\weather.AssemblyInfoInputs.cache
+C:\Users\Nirva\source\repos\weather\weather\obj\Debug\net8.0\weather.AssemblyInfo.vb
+C:\Users\Nirva\source\repos\weather\weather\obj\Debug\net8.0\weather.vbproj.CoreCompileInputs.cache
+C:\Users\Nirva\source\repos\weather\weather\bin\Debug\net8.0\weather.exe
+C:\Users\Nirva\source\repos\weather\weather\bin\Debug\net8.0\weather.deps.json
+C:\Users\Nirva\source\repos\weather\weather\bin\Debug\net8.0\weather.runtimeconfig.json
+C:\Users\Nirva\source\repos\weather\weather\bin\Debug\net8.0\weather.dll
+C:\Users\Nirva\source\repos\weather\weather\bin\Debug\net8.0\weather.pdb
+C:\Users\Nirva\source\repos\weather\weather\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Nirva\source\repos\weather\weather\obj\Debug\net8.0\weather.vbproj.Up2Date
+C:\Users\Nirva\source\repos\weather\weather\obj\Debug\net8.0\weather.dll
+C:\Users\Nirva\source\repos\weather\weather\obj\Debug\net8.0\refint\weather.dll
+C:\Users\Nirva\source\repos\weather\weather\obj\Debug\net8.0\weather.pdb
+C:\Users\Nirva\source\repos\weather\weather\obj\Debug\net8.0\weather.genruntimeconfig.cache
+C:\Users\Nirva\source\repos\weather\weather\obj\Debug\net8.0\ref\weather.dll
